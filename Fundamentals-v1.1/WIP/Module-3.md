@@ -10,7 +10,7 @@
 
 In the previous module, you learned that DHIS2 is used in public health for the reporting, analysis, and dissemination of data. 
 
-In this module, we’ll delve into the **analysis **function, understanding the **mechanics **of how** **to use the following DHIS2 applications: **Pivot table**, **Data visualizer**, **GIS** (now named Maps) and **Reports**.
+In this module, we’ll delve into the **analysis** **function,** understanding the **mechanics **of how** **to use the following DHIS2 applications: **Pivot table**, **Data visualizer**, **GIS** (now named Maps) and **Reports**.
 
 By watching demonstrations, you’ll see how it’s possible to **combine **tables, charts and maps to create **integrated analysis**, how to create and share **dashboards**, how to **interact **with other DHIS2 members through the platform, and what are the main DHIS2 roles within a system.
 

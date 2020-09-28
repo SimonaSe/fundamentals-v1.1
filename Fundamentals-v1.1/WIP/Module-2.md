@@ -67,14 +67,14 @@ That is why we created Trainingland, a DHIS2 training environment that represent
 
 [https://www.youtube.com/watch?v=Y98Zh_cGF7k](https://www.youtube.com/watch?v=Y98Zh_cGF7k)
 
-**Knowledge check** (no graded) - Introduction to Trainingland
+**Knowledge check** (not graded) - Introduction to Trainingland
 
 
 
 1. Trainingland has been created to demonstrate: (select one or more)
-*   Data collection forms
-*   Data Analysis
-*   Indicators
+*  **Data collection forms**
+*  **Data Analysis**
+*  **Indicators**
 
 EXPLANATION
 
@@ -111,7 +111,7 @@ In this video, you will start to get familiar with this use case, which we'll us
 
 1. The 1000 most vulnerable days use case covers:
 *   From the time the child is born up until 3 years of age
-*   From the time the child is conceived up until 2 years of age - correct
+*   **From the time the child is conceived up until 2 years of age - correct**
 *   From the time a mother receives antenatal care and completes her post-natal care
 
 EXPLANATION
@@ -121,9 +121,9 @@ The 1000 most vulnerable days covers both infant and mother from the time from w
 
 
 2. This use case is used to help us define: (select one or more)
-*   The services that are provided to the mother and child
-*   The data we collect in relation to those services
-*   The outputs we create in relation to those services
+*   **The services that are provided to the mother and child**
+*   **The outputs we create in relation to those services**
+*   **The data we collect in relation to those services**
 
 EXPLANATION
 
@@ -152,7 +152,7 @@ Note: GIS is currently called Maps starting with DHIS2 version 2.29
 
 
 1. We can collect different types of data directly within DHIS2 (for example, aggregate data or anonymous individual-level data)
-*   True
+*   **True**
 *   False
 
 EXPLANATION
@@ -162,7 +162,7 @@ DHIS2 can collect different types of data directly within the application. This 
 
 
 2. We can configure data quality checks by creating user-defined validation rules which check the data that is entered
-*   True
+*   **True**
 *   False
 
 EXPLANATION
@@ -172,7 +172,7 @@ Mathematical rules, referred to as validation rules, can be defined by a user in
 
 
 3. We can define the variables that we are collecting directly through the DHIS2 user-interface
-*   True
+*   **True**
 *   False
 
 EXPLANATION
@@ -183,7 +183,7 @@ As mentioned in the demo, it is a key principle of DHIS2 to allow the user to cu
 
 4. The outputs we create can not be given additional descriptions/interpretations directly within DHIS2
 *   True
-*   False
+*   **False**
 
 EXPLANATION
 
@@ -193,7 +193,7 @@ We can provide all of our outputs with additional descriptions and discuss inter
 
 5. The analyses/outputs that we create can not be shared with other users directly within DHIS2
 *   True
-*   False
+*   **False**
 
 EXPLANATION
 
@@ -231,9 +231,9 @@ If you want to save your current response without submitting it for grading yet,
 
 
 1. Which of the following are the core dimensions of the Data Model in DHIS2 (Select one or more)?
-*   Organisation unit (Where)
-*   Data element (What)
-*   Period (When)
+*   **Organisation unit (Where)**
+*   **Data element (What)**
+*   **Period (When)**
 *   None of the above
 
 EXPLANATION
@@ -244,8 +244,8 @@ Organisation units refers to the geographical location or where aspect Data Elem
 
 
 
-2.  Units represent (select one):
-*   The geographical location of the data
+2.  Organisation Units represent (select one):
+*   **The geographical location of the data**
 *   Calculated data values
 *   Health program projects
 
@@ -257,7 +257,7 @@ In the core concepts presentation, organisation units are referred to as the geo
 
 3. In DHIS2, data elements and indicators represent the same concept.
 *   True
-*   False
+*   **False**
 
 EXPLANATION
 
@@ -266,9 +266,9 @@ In the building blocks presentation, it is noted that data elements and indicato
 
 
 4. Which of the following are data elements (select one or more)?
-*   Number of maternal deaths 
+*   **Number of maternal deaths**
 *   Maternal Mortality Ratio (per 100,000)
-*   Number of positive malaria cases
+*   **Number of positive malaria cases**
 *   Annual Malaria Parasite Incidence
 
 EXPLANATION
