@@ -1,63 +1,55 @@
 
 ## Module 2 - Introduction to DHIS2 (1 h)
 
-
 ### 2.0 Overview of the module (10 min)
 
+#### What is in this module
 
-#### What is in this module?
+What is DHIS2 and where does it come from? What are its **main features**? What are its **3 building blocks**?
 
-What is DHIS2 and where does it come from? What are its **main features**? What are its **3 building blocks**? 
+In this module, you will learn how DHIS2, as an open-source management information platform, is used in countries around the world for **reporting, analysis, and dissemination of data.**
 
-In this module, you will learn how DHIS2, as an open-source management information platform, is used in countries around the world for **reporting, analysis, and dissemination of data.**    
+You will also start to get familiar with the main features of DHIS2 and its 3 building blocks.
 
-You will also start to get familiar with the main features of DHIS2 and its 3 building blocks. 
+In section 2.2, you will be prompted to **create an account on Trainingland**, the training environment that we will be using along the course, which allows you to navigate DHIS2 and get hands-on experience with it.
 
-In section 2.2, you will be prompted to **create an account on Trainingland**, the training environment that we will be using along the course, which allows you to navigate DHIS2 and get hands-on experience with it. 
-
-After each video, you'll find some **non-graded questions** that will help you check your knowledge. 
+After each video, you'll find some **non-graded questions** that will help you check your knowledge.
 
 At the end of the module, you will find the **first graded assignment** of the course, which counts for 5% of your final score.
 
 We estimate that you will take about 1 hour to view all the videos and complete all the learning activities, including the graded assignment.
 
-
 ### 2.1 Introduction to DHIS2/History (10 min)
 
-The **D**istrict **H**ealth **I**nformation **S**oftware - **DHIS2** - it's not only an open-source platform for reporting, analysis, and dissemination of data but an initiative supported by a **global network** called the **H**ealth **I**nformation **S**ystem **P**rogramme or **HISP** and a growing community of users from more than 60 countries globally. 
+The **D**istrict **H**ealth **I**nformation **S**oftware - **DHIS2** - it's not only an open-source platform for reporting, analysis, and dissemination of data but an initiative supported by a **global network** called the **H**ealth **I**nformation **S**ystem **P**rogramme or **HISP** and a growing community of users from more than 60 countries globally.
 
 In this video, you will learn about DHIS2 history,  the network of action, its main features, and an overview of how it can be used in the public health context.
 
-
 #### Video - Introduction to DHIS2/History
 
-[https://www.youtube.com/watch?v=6Qbxbny2iKg](https://www.youtube.com/watch?v=6Qbxbny2iKg) 
+[https://www.youtube.com/watch?v=6Qbxbny2iKg](https://www.youtube.com/watch?v=6Qbxbny2iKg)
 
 **Knowledge check**  (not graded) - Introduction to DHIS2/History
 
-
-
 1. DHIS2 can be used as a ‘data warehouse’ to store data from multiple data sources in one location
-*   **True**
-*   False
+
+* **True**
+* False
 
 EXPLANATION
 
 DHIS2 can combine data from multiple data sources. This includes through routine data that is directly collected within the system you are working as well as supplementary data from other sources such as surveys.
 
-
-
 2. The HISP network works collaboratively on advancing the features which DHIS2 supports
-*   **True**
-*   False
+
+* **True**
+* False
 
 EXPLANATION
 
 The HISP network is a world-wide collaboration that supports the development of the DHIS2 project. Collaboration between the nodes is a key area of interest to ensure that DHIS2 continues to meet local needs as defined by its users.
 
-
 ### 2.2 Introduction to Trainingland (10 min)
-
 
 #### Video - Introduction to Trainingland
 
@@ -69,17 +61,15 @@ That is why we created Trainingland, a DHIS2 training environment that represent
 
 **Knowledge check** (not graded) - Introduction to Trainingland
 
-
-
 1. Trainingland has been created to demonstrate: (select one or more)
-*  **Data collection forms**
-*  **Data Analysis**
-*  **Indicators**
+
+* **Data collection forms**
+* **Data Analysis**
+* **Indicators**
 
 EXPLANATION
 
 Trainingland is part of the training environment that has been created in order for users to learn how DHIS2 is structured and how information can be collected and reviewed. It uses modeled data that allows users to learn some of the fundamentals of DHIS2 functionality.
-
 
 #### Create your account in TRAININGLAND
 
@@ -91,9 +81,7 @@ You will receive an invitation by email with instructions on how to complete the
 
 _Note: the email address you use with OpenEDX will be sent to the DHIS2 database to create an account._
 
-
 ### 2.3 The 1000 Most Vulnerable Days’ Use Case (7 min)
-
 
 #### Video - The 1000 MVD's Use Case
 
@@ -107,39 +95,35 @@ In this video, you will start to get familiar with this use case, which we'll us
 
 **Knowledge check** (not graded) - The 1000 MVD's Use Case
 
-
-
 1. The 1000 most vulnerable days use case covers:
-*   From the time the child is born up until 3 years of age
-*   **From the time the child is conceived up until 2 years of age - correct**
-*   From the time a mother receives antenatal care and completes her post-natal care
+
+* From the time the child is born up until 3 years of age
+* **From the time the child is conceived up until 2 years of age - correct**
+* From the time a mother receives antenatal care and completes her post-natal care
 
 EXPLANATION
 
 The 1000 most vulnerable days covers both infant and mother from the time from when the child was conceived to the child’s 2nd birthday. This is a critical time for child development; the right nutrition for the mother and for the child during this time can have a profound impact on the child's growth and development and reduce disease risk, as well as protect the mother's health. Elements linked to this use case are used throughout this academy.
 
-
-
 2. This use case is used to help us define: (select one or more)
-*   **The services that are provided to the mother and child**
-*   **The outputs we create in relation to those services**
-*   **The data we collect in relation to those services**
+
+* **The services that are provided to the mother and child**
+* **The outputs we create in relation to those services**
+* **The data we collect in relation to those services**
 
 EXPLANATION
 
 All 3 of these items are used to translate elements of the use-case (in this case, a health-related use case) over to DHIS2. It is important to identify what the key inputs and outputs are; this is often best accomplished by understanding the use-case in detail.
 
-
 ### 2.4 Overview of DHIS2 (15 min)
-
 
 #### Video - Overview of DHIS2
 
 In this overview, you will begin to familiarize yourself with some of the key elements of DHIS2 that we will delve into throughout the course.
 
-First, you will see options that allow you to **customize **your experience with the platform. 
+First, you will see options that allow you to **customize**your experience with the platform.
 
-Through examples, you will see the **different types of data** (numerical, anonymous, or individual data) that can be collected, and the **reports **that can be obtained.
+Through examples, you will see the **different types of data** (numerical, anonymous, or individual data) that can be collected, and the **reports**that can be obtained.
 
 Lastly, you will begin to hear about the 3 applications that we will see in detail later on: Pivot Tables (used to create dynamic tables), **Data Visualizer** (used to make charts) and **GIS** (use to make maps) based on the data stored in the platform.
 
@@ -149,59 +133,52 @@ Note: GIS is currently called Maps starting with DHIS2 version 2.29
 
 **Knowledge check** (not graded) - Overview of DHIS2
 
-
-
 1. We can collect different types of data directly within DHIS2 (for example, aggregate data or anonymous individual-level data)
-*   **True**
-*   False
+
+* **True**
+* False
 
 EXPLANATION
 
 DHIS2 can collect different types of data directly within the application. This includes aggregate data, event data (anonymous, individual level data) and “Tracker” data (identifiable, individual level data).
 
-
-
 2. We can configure data quality checks by creating user-defined validation rules which check the data that is entered
-*   **True**
-*   False
+
+* **True**
+* False
 
 EXPLANATION
 
 Mathematical rules, referred to as validation rules, can be defined by a user in order to check the data that is being entered. This is one of electronic methods checking data quality in DHIS2 and will be discussed further in other sessions.
 
-
-
 3. We can define the variables that we are collecting directly through the DHIS2 user-interface
-*   **True**
-*   False
+
+* **True**
+* False
 
 EXPLANATION
 
 As mentioned in the demo, it is a key principle of DHIS2 to allow the user to customize what they are collecting directly through the user-interface.
 
-
-
 4. The outputs we create can not be given additional descriptions/interpretations directly within DHIS2
-*   True
-*   **False**
+
+* True
+* **False**
 
 EXPLANATION
 
 We can provide all of our outputs with additional descriptions and discuss interpretations directly within DHIS2. This allows us to give the item more context for when other users are reviewing the information and will be discussed further in the analysis sessions.
 
-
-
 5. The analyses/outputs that we create can not be shared with other users directly within DHIS2
-*   True
-*   **False**
+
+* True
+* **False**
 
 EXPLANATION
 
 The analyses/outputs that are created can be shared with other users directly within DHIS2. This will be discussed more in later sessions.
 
-
 ### 2.5 DHIS2 Building Blocks (7 min)
-
 
 #### Video - DHIS2 Building Blocks
 
@@ -211,11 +188,9 @@ These are the building blocks of the DHIS2 data model, and are key to understand
 
 [https://www.youtube.com/watch?v=PaXLxIt7x5U](https://www.youtube.com/watch?v=PaXLxIt7x5U)
 
-
 ### Session Quiz - DHIS2 Building Blocks
 
-
-#### Session Quiz - DHIS2 Building Blocks.
+#### Session Quiz - DHIS2 Building Blocks
 
 This is a **graded quiz** and it is worth **5%** of your final grade.
 
@@ -225,16 +200,14 @@ Select the "**check**" button to submit your answers.
 
 If you want to save your current response without submitting it for grading yet, select the "save" button. This allows you to come back later and resume the attempt.
 
-
 ##### Quiz - DHIS2 Building Blocks
 
-
-
 1. Which of the following are the core dimensions of the Data Model in DHIS2 (Select one or more)?
-*   **Organisation unit (Where)**
-*   **Data element (What)**
-*   **Period (When)**
-*   None of the above
+
+* **Organisation unit (Where)**
+* **Data element (What)**
+* **Period (When)**
+* None of the above
 
 EXPLANATION
 
@@ -242,39 +215,35 @@ As highlighted in the core concepts presentation, there are 3 core dimensions in
 
 Organisation units refers to the geographical location or where aspect Data Elements refers to what we are collecting Periods refers to when we are collecting that information
 
+2. Organisation Units represent (select one):
 
-
-2.  Organisation Units represent (select one):
-*   **The geographical location of the data**
-*   Calculated data values
-*   Health program projects
+* **The geographical location of the data**
+* Calculated data values
+* Health program projects
 
 EXPLANATION
 
 In the core concepts presentation, organisation units are referred to as the geographical location of the data
 
-
-
 3. In DHIS2, data elements and indicators represent the same concept.
-*   True
-*   **False**
+
+* True
+* **False**
 
 EXPLANATION
 
 In the building blocks presentation, it is noted that data elements and indicators represent different concepts. Data elements are the raw data, while indicators are calculated values.
 
-
-
 4. Which of the following are data elements (select one or more)?
-*   **Number of maternal deaths**
-*   Maternal Mortality Ratio (per 100,000)
-*   **Number of positive malaria cases**
-*   Annual Malaria Parasite Incidence
+
+* **Number of maternal deaths**
+* Maternal Mortality Ratio (per 100,000)
+* **Number of positive malaria cases**
+* Annual Malaria Parasite Incidence
 
 EXPLANATION
 
 The data elements are the raw data values that we collect. Calculated values such as ratios and incidences are considered indicators.
-
 
 ### 2.6 Module Readings (10 min)
 
@@ -284,9 +253,7 @@ Additional Readings (not graded):
 
 [The 100 Core Health Indicators (WHO)](http://www.who.int/healthinfo/indicators/2015/en/)
 
-
 ### Feedback - Introduction to DHIS2
-
 
 #### Feedback - Introduction to DHIS2
 
